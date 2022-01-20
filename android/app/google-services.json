@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335653159365",
+    "project_id": "furrmate-00",
+    "storage_bucket": "furrmate-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335653159365:android:e22b8baa340b2c0cff4bac",
+        "android_client_info": {
+          "package_name": "com.example.furrmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335653159365-h5c71r35mbnocjsc9l8ab7aa978phebh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9popjnIB2vmih9PQsfwi50-HvQWW5-E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335653159365-h5c71r35mbnocjsc9l8ab7aa978phebh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
